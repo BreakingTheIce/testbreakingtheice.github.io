@@ -1,0 +1,12 @@
+title: Breaking The Ice Sports
+description: Creating Impact Together
+baseurl: ""  # Leave empty for main GitHub Pages site
+url: "https://your-username.github.io"
+
+remote_theme: andrewbanchich/dimension-jekyll-theme
+
+plugins:
+  - jekyll-remote-theme
+
+# Optional: social media / email / analytics
+email: 1004382@pdsb.net
